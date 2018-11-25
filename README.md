@@ -4,4 +4,4 @@
 
 
 
-<iframe width="1000" height="1000" src="https://github.com/aaarista/IS362/blob/master/Project_4.ipynb"></iframe>
+<iframe width="1000" height="1000" src="https://nbviewer.jupyter.org/github/aaarista/IS362/blob/master/Week2_assignment.ipynb"></iframe>
